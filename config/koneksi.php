@@ -33,3 +33,8 @@ function cekUsername($pIndex, $pTabel, $pStatement, $username)
     $cek = mysqli_fetch_assoc($query);
     return $cek;
 }
+
+function e($v)
+{
+    htmlspecialchars($v);
+}
