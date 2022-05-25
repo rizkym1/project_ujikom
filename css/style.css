@@ -1,0 +1,34 @@
+body {
+    color: #000000;
+    overflow-x: hidden;
+  }
+  
+  /* HERO  */
+  section.hero {
+    margin-top: 160px;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .hero .text-hero h1 {
+    letter-spacing: 2px;
+  }
+  
+  .hero .text-hero p {
+    letter-spacing: 1px;
+  }
+  
+ 
+
+  .reservasi-rev {
+      background-color: #0d6efd;
+      padding-top: 100px;
+      padding-bottom: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+  }
+  /*Kamar*/
+  .text{
+      margin-top: 100pt;
+  }
+  
